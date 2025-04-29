@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Celebes TV" tvg-logo="" group-title="Sport",Celebes TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra Español" tvg-logo="" group-title="Sport",beIN Sports Xtra Español
+https://d3j0xs5tf3fay7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pk6mnjx9jpmpg/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SportsGrid Samsung US" tvg-logo="" group-title="Sport",SportsGrid Samsung US
+https://sportsgrid-samsungus-tsv2-8be0o.amagi.tv/playlist/sportsgri-sportsgrid-samsung-us/cb573d167b6c678a9bd43d6ecef34682847b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6d5a4d1cd209af3c419b8b1dfd034f25536b9f9bb565da9f0211c9a06b5756af6a4208a55b05a7700079d6a05a2b8d2fba74005cb95b391862c3ed47ad662f9ad253d72a39e8fc8b307b24455a9c5a43e6a64cb7f9e50947d86aa6b5014a912a46fa83439fd401ea81810e83128073f91dccc7a2888714d6e4d8598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d20d0ae6cdfb42b56125ba0b9941c64be28752e4c3932c8b98c1af6c4e2bb0cc1b4a26acecad8bf52132b32c9bf0aab5770de851cea0aa2f07f85bd2e3660da412b9e35ffb97308cb5263039cb9056889ca0b90dd1e745b12ad0cef8943c0d1b2d5442ce71ab9478c3729d59a6ca012e554904fcca0e84ad901e11725f8a8569d11130b0cfc4d68c597599365b12c348ed7629208c386577e06dde9f3f67866f4aa63d2ff45530cf13aeef62a5e98bab567b98d1c54bf36aaf860bd4f710a022690a55fda17a2d28261af1e0621f3f70c73786829a9b170363bda595e6a1b359efb5c9f26a19c76e47ced2fb25dadf451b0dc03dcc/128/640x360_1020800/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Samsung Stadium" tvg-logo="" group-title="Sport",Samsung Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/2a293561-899d-4bd8-bdba-eca39e0df9fa/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="" group-title="Sport",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UDU DistroTV" tvg-logo="" group-title="Movie",UDU DistroTV
+https://d1b5mlajbmvkjv.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/06dbf38a-1cd0-4c07-838f-014612ef29a6/3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Movie",HBO 2
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8?rand=0.013935031183061941
+
+#EXTINF:-1 tvg-id="" tvg-name="Special Channel" tvg-logo="" group-title="Special",Special Channel
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
