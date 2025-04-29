@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="celebesmedia" group-title="Sport", Celebes Media
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTINF:-1 tvg-id="beinextraes" group-title="Sport", beIN Sports Xtra Español
+https://d3j0xs5tf3fay7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pk6mnjx9jpmpg/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="sportsgridus" group-title="Sport", SportsGrid US
+https://sportsgrid-samsungus-tsv2-8be0o.amagi.tv/playlist/sportsgri-sportsgrid-samsung-us/cb573d16...
+
+#EXTINF:-1 tvg-id="samsungstadium" group-title="Sport", Samsung Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4...
+
+#EXTINF:-1 tvg-id="sportstv" group-title="Sport", SportsTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="distrotv" group-title="Movie", UDU DistroTV
+https://d1b5mlajbmvkjv.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Dis...
+
+#EXTINF:-1 tvg-id="hbo2" group-title="Movie", HBO 2
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8?rand=0.013935031183061941
+
+#EXTINF:-1 tvg-id="xxx1" group-title="Adult", Adult XXX Channel
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
